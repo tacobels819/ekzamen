@@ -1,0 +1,6 @@
+C:\Users\valer\source\repos\EkzDem1\Services\bin\Debug\Services.dll
+C:\Users\valer\source\repos\EkzDem1\Services\bin\Debug\Services.pdb
+C:\Users\valer\source\repos\EkzDem1\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\EkzDem1\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\EkzDem1\Services\obj\Debug\Services.dll
+C:\Users\valer\source\repos\EkzDem1\Services\obj\Debug\Services.pdb

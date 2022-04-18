@@ -1,0 +1,37 @@
+﻿<Window x:Class="EkzDem1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EkzDem1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="ListViewTasks" Grid.RowSpan="8" SelectionChanged="ListViewTasks_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Width="200">задачи</GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Grid.Row="10"></Button>
+        <Frame x:Name="mainFrame" Grid.Column="1" Grid.ColumnSpan="4" Grid.RowSpan="9">
+        </Frame>
+    </Grid>
+</Window>

@@ -1,0 +1,70 @@
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\bin\Debug\EkzDem1.exe.config
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\bin\Debug\EkzDem1.exe
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\bin\Debug\EkzDem1.pdb
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\bin\Debug\Services.dll
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\bin\Debug\Services.pdb
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\MainWindow.g.cs
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\App.g.cs
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.cache
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.lref
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\MainWindow.baml
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.g.resources
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.Properties.Resources.resources
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.csproj.CopyComplete
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.exe
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\EkzDem1.pdb
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\Pages\AddTaskList.g.cs
+C:\Users\valer\source\repos\EkzDem1\EkzDem1\obj\Debug\Pages\AddTaskList.baml
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.csproj.AssemblyReference.cache
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\MainWindow.g.cs
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\AddTaskList.g.cs
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\App.g.cs
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.cache
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.lref
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.exe
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.pdb
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\bin\Debug\EkzDem1.exe.config
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\bin\Debug\EkzDem1.exe
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\bin\Debug\EkzDem1.pdb
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\bin\Debug\Services.dll
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\bin\Debug\Services.pdb
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\MainWindow.baml
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\AddTaskList.baml
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.g.resources
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.Properties.Resources.resources
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.csproj.GenerateResource.cache
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.csproj.CoreCompileInputs.cache
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\EkzDem1.csproj.CopyComplete
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\AddTask.g.cs
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\listTask.g.cs
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\AddTask.baml
+C:\Users\valer\Documents\GitBash\repForDima\EkzDem1\obj\Debug\Pages\listTask.baml
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\bin\Debug\EkzDem1.exe.config
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\bin\Debug\EkzDem1.exe
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\bin\Debug\EkzDem1.pdb
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\bin\Debug\Services.dll
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\bin\Debug\Services.pdb
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\AddTask.g.cs
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\AddTaskList.g.cs
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\listTask.g.cs
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\AddTask.baml
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\AddTaskList.baml
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\Pages\listTask.baml
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.g.resources
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.exe
+C:\Users\Администратор\Desktop\Новая папка (3)\EkzDem1\obj\Debug\EkzDem1.pdb

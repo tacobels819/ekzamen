@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f56341ee-707b-40ec-aff5-d079ea15cc9e": {
+      "ProjectGuid": "f56341ee-707b-40ec-aff5-d079ea15cc9e",
+      "DisplayName": "EkzDem1",
+      "ColorIndex": 0
+    },
+    "7f1d001d-745a-40b1-9c38-9bd88d5875b3": {
+      "ProjectGuid": "7f1d001d-745a-40b1-9c38-9bd88d5875b3",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
